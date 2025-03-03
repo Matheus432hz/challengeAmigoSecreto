@@ -38,7 +38,7 @@ Você também pode acessar o Amigo Secreto diretamente em seu navegador, sem a n
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma nova issue ou enviar um pull request.
 
 ## Créditos
-O Amigo Secreto foi desenvolvido durante o curso de Lógica de Programação da Alura, ministrado pelos instrutores Guilherme Lima e Mônica Mazzochi Hillman.
+O Amigo Secreto foi desenvolvido durante o curso Praticando Logica de programação: Challenge amigo secreto, recorri muiot ao projeto anterior onde tive mais ajuda e introduçao a logica de programaçao, com as aulas anteriores em que desenvolvi o projeto do [Numero Secreto](https://github.com/Matheus432hz/alura-one-jogo-numero-secreto) juntamente com as aulas ministradas pelos instrutores Guilherme Lima e Mônica Mazzochi Hillman. As aulas de git e github, ministradas por  Gabrielle Ribeiro Gomes e Rodrigo da Silva Ferreira Caneppele. foram importantes pois foi onde aprendi e pratiqueicom um jogo do numero secreto verso diferente [praticando GIT e GITHUB](https://github.com/Matheus432hz/alura-GIT-jogo) apliquei esses conhecimentos no projketo amigo secreto para versionar o codigo.
 
 ## Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
