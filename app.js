@@ -29,3 +29,17 @@ function listarAmigos() {
         listaAmigos.appendChild(novoLi);
     }
 }
+
+
+function sortearAmigo() {
+    if (amigos.length === 0) { //array vazio
+        document.getElementById("resultado").innerHTML = "Não há amigos cadastrados."; // mostra uma mensgem
+    } else {
+        let indiceAleatorio = Math.floor(Math.random() * amigos.length);    
+        let nomeSorteado = amigos[indiceAleatorio];
+        document.getElementById("resultado").innerHTML = "O amigo sorteado é: " + nomeSorteado;
+    }
+}
+
+
+  
